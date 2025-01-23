@@ -2,7 +2,7 @@ package com.array;
 
 import java.util.Arrays;
 
-public class secondLargestElementArray {
+public class SecondLargestElementArray {
     public static void main(String[] args) {
         int[] arr = {1,2,-3,4,55,66,56,66,66,17,8,9};
         secondLargestElementSort(arr);
